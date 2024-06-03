@@ -9,7 +9,7 @@ from typing import Any, Dict, List, Optional, Tuple, Union
 
 import cv2
 import numpy as np
-from langdetect import LangDetectException, detect_langs
+#from langdetect import LangDetectException, detect_langs
 
 __all__ = ["estimate_orientation", "get_language", "invert_data_structure"]
 
